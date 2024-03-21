@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">areaEspacio</string>
+    <string name="title">Cálculo área</string>
+    <string name="areaEspacio">Ingresa el área del espacio</string>
+    <string name="baseEspacio">Ingresa la base del espacio</string>
+    <string name="alturaBaldosa">Ingresa la altura de la baldosa</string>
+    <string name="baseBaldosa">Ingresa la base de la baldosa</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+</resources>
